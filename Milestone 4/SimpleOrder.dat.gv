@@ -1,0 +1,30 @@
+digraph task {
+"Biance
+Dell 123"->"DDR 266"[color=purple];
+"Biance
+Dell 123"->"I7"[color=purple];
+"Biance
+Dell 123"->"DDR 266"[color=purple];
+"Biance
+Dell 123"->"Nano"[color=purple];
+"Biance
+Dell 123"->"Power Supply - 300 Watt"[color=purple];
+"Salt-N-Pepa
+HP 345"->"A12"[color=purple];
+"Salt-N-Pepa
+HP 345"->"DDR 400"[color=purple];
+"Salt-N-Pepa
+HP 345"->"Geforce 750M"[color=purple];
+"Salt-N-Pepa
+HP 345"->"DDR 400"[color=purple];
+"Salt-N-Pepa
+HP 345"->"Power Supply - 300 Watt"[color=purple];
+"YoYo Ma
+Acer 567"->"I5"[color=purple];
+"YoYo Ma
+Acer 567"->"Power Supply - 200 Watt"[color=purple];
+"YoYo Ma
+Acer 567"->"DDR 266"[color=purple];
+"YoYo Ma
+Acer 567"->"Nano"[color=purple];
+}
